@@ -1,0 +1,23 @@
+{
+  "name": "tdd-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/tdd-node.git"
+  },
+  "author": "ikhlas firlana <ifirlana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/tdd-node/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/tdd-node#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
